@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: kamesh20k/k8sproject:latest
+          image: kamesh20k/k8sprojectimage:latest
           imagePullPolicy: Always
